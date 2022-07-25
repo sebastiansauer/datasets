@@ -36,11 +36,11 @@ For example:
 For each data set, a documentation is provided. 
 The path/URL is built like this:
 
-`https://raw.githubusercontent.com/sebastiansauer/datasets/main/doc/<DATASET-NAME>.html`
+`https://sebastiansauer.github.io/datasets/doc/<DATASET-NAME>.html`
 
 For example:
 
-`https://raw.githubusercontent.com/sebastiansauer/datasets/main/doc/precip_temp_DWD.html`
+`https://sebastiansauer.github.io/datasets/doc/precip_DWD.html`
 
 
 # Licence
